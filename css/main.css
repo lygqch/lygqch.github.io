@@ -1985,7 +1985,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffe5ac;
+  background: #c4a2fc;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2564,8 +2564,20 @@ img:hover {
 .-lygqch-share-weixin:hover {
   background-color: #18a01a;
 }
+.-lygqch-share-qq:hover {
+  background-color: #1e90ff;
+}
+.-lygqch-share-qzone:hover {
+  background-color: #ffd700;
+}
+.-lygqch-share-facebook:hover {
+  background-color: #6495ed;
+}
 .-lygqch-share-twitter:hover {
   background-color: #2ab3e6;
+}
+.-lygqch-share-google:hover {
+  background-color: #ff3030;
 }
 .-lygqch-share-more:hover {
   background-color: #777;
